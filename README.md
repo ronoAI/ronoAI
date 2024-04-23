@@ -1,7 +1,7 @@
 **👋 Hi, I’m Isaac Rono**
 - 👀 I’m interested in software and webbased apps development and cybersecurity.
 - 🌱 I’m currently learning mobile apps development and AI development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on webbased applications,AI&ML, ethical hackin 
 - 📫 email me isaackipkogeirono@gmail.com
 - contact me on +254705027739
 
